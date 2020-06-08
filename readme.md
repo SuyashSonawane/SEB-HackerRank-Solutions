@@ -1,0 +1,1 @@
+## Solutions for SEB HackerRank Contest
